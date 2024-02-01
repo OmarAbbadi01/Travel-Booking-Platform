@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform", "Travel-Booking-Platform\Travel-Booking-Platform.csproj", "{1934C90E-E1C2-4668-988D-06640E508202}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Api", "Travel-Booking-Platform.Api\Travel-Booking-Platform.Api.csproj", "{1934C90E-E1C2-4668-988D-06640E508202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Domain", "Travel-Booking-Platform.Domain\Travel-Booking-Platform.Domain.csproj", "{1F731FF0-9250-408B-9A2E-4462D646B29C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Infrastructure", "Travel-Booking-Platform.Infrastructure\Travel-Booking-Platform.Infrastructure.csproj", "{3613D617-0DDF-4827-9B93-1E74C0B09CD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{1934C90E-E1C2-4668-988D-06640E508202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1934C90E-E1C2-4668-988D-06640E508202}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1934C90E-E1C2-4668-988D-06640E508202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F731FF0-9250-408B-9A2E-4462D646B29C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F731FF0-9250-408B-9A2E-4462D646B29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F731FF0-9250-408B-9A2E-4462D646B29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F731FF0-9250-408B-9A2E-4462D646B29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3613D617-0DDF-4827-9B93-1E74C0B09CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3613D617-0DDF-4827-9B93-1E74C0B09CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3613D617-0DDF-4827-9B93-1E74C0B09CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3613D617-0DDF-4827-9B93-1E74C0B09CD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
