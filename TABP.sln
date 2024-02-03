@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Api", "Travel-Booking-Platform.Api\Travel-Booking-Platform.Api.csproj", "{1934C90E-E1C2-4668-988D-06640E508202}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABP.Api", "TABP.Api\TABP.Api.csproj", "{1934C90E-E1C2-4668-988D-06640E508202}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Domain", "Travel-Booking-Platform.Domain\Travel-Booking-Platform.Domain.csproj", "{1F731FF0-9250-408B-9A2E-4462D646B29C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABP.Domain", "TABP.Domain\TABP.Domain.csproj", "{1F731FF0-9250-408B-9A2E-4462D646B29C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel-Booking-Platform.Infrastructure", "Travel-Booking-Platform.Infrastructure\Travel-Booking-Platform.Infrastructure.csproj", "{3613D617-0DDF-4827-9B93-1E74C0B09CD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TABP.Infrastructure", "TABP.Infrastructure\TABP.Infrastructure.csproj", "{3613D617-0DDF-4827-9B93-1E74C0B09CD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
